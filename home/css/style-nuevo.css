@@ -1,0 +1,13 @@
+.contenedor{
+    text-align:center
+}
+.A{
+    float: left;
+}
+.B{
+    float: right;
+}
+.C{
+   display:inline-block
+}
+
